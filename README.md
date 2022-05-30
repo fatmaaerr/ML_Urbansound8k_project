@@ -13,3 +13,5 @@ ML_Project_Feature_Extraction_and_Testing_and_Training_Separation  includes  Fea
 Data file is including test and train data 
 
 CNN, DNN, LTSM files include models.
+
+Urban_Sound_Classification_with_Neural_Networks_ER_967585.pdf is project report.
