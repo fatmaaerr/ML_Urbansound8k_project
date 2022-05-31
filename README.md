@@ -13,4 +13,4 @@ Data file is including test and train data
 
 CNN, DNN, LTSM files include models, models mean accuracy and standard deviation
 
-Urban_Sound_Classification_with_Neural_Networks_ER_967585.pdf is project report.
+Urban_Sound_Classification_with_Neural_Networks_Report_Fatma_ER_967585 is project report.
